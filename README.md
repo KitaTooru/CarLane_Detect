@@ -17,7 +17,7 @@
 以及ChatGPT  
 
 ### 运行效果
-![image](https://raw.githubusercontent.com/KitaTooru/images/master/image1.png?token=GHSAT0AAAAAACM2PYGDZQVH5UDTDC7NZVMCZNM5N5Q)
+![image](https://raw.githubusercontent.com/KitaTooru/images/master/image1.png?token=GHSAT0AAAAAACM2PYGD5NX2SZTMD7HQEK2OZNM5UDQ)
 
 
 ~~要不是期末作业要求谁会用C++去实现这玩意（小声）~~
